@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakcesar
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning the fundamentals of Linux, Windows, Python and OSINT
+- 🌱 I’m currently learning the fundamentals of Linux, Windows, Python and Cloud
 - 💞️ I’m looking to collaborate on HTB or TryHackMe
 - 📫 How to reach me - @hakcesar on Twitter
 
