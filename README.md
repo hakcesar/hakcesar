@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hakcesar
-- 👀 I’m passionate in Cybersecuirty/IT with a strong interest in Ethical Hacking
-- 📚 First-generation college student pursuing a BS, Cybersecurity and Information Assurance
-- 🏠 I’m currently learning the fundamentals of Linux, Python and Cloud in order to build a strong foundation.
+- 👀 I’m passionate about Information Security with a strong interest in Ethical Hacking
 - 🌐 I'm actively working on building my website and YouTube channel to post blogs and projects of my journey into Information Security
+- 📚 First-generation college student pursuing a BS, Cybersecurity and Information Assurance
+- 🏠 I'm currently learning the fundamentals of Networking, Linux, Python and Cloud in order to build a strong foundation
 - 🎮 Practical experience with home labs, Hack The Box and TryHackMe
 - 📜 I'm studying industry certications with a goal to obtain and/or gain knowledge:
 - CompTIA A+, Net+, Sec+
