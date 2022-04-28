@@ -9,8 +9,7 @@
 - INE - eJPT
 - TCM - PNP
 - AWS Cloud
-- 
-📫 How to reach me - @hakcesar on Twitter
+- 📫 How to reach me - @hakcesar on Twitter
 <!---
 cesarblad/cesarblad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
